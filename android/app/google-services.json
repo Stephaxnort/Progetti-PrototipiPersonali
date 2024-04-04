@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563940765552",
+    "project_id": "la-mia-prima-app-flutter",
+    "storage_bucket": "la-mia-prima-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563940765552:android:8e5ea3ed25daf7720969b5",
+        "android_client_info": {
+          "package_name": "StefanoPassacantilli.com.prima_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5D0nolLMriEAiXeCEk_WFpG9-1h8hEh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
