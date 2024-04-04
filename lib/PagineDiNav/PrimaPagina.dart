@@ -55,7 +55,7 @@ class _PrimaPaginaState extends State<PrimaPagina> with TickerProviderStateMixin
     super.dispose();
   }
 
-  // corpo prima schermata
+  //corpo prima schermata
   @override
   Widget build(BuildContext context) {
     return Scaffold(
